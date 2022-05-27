@@ -1,0 +1,24 @@
+.container,
+.dive {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    max-width: 855px !important;
+
+}
+
+.dive {
+    width: 200px !important;
+    height: 200px;
+    background-color: rgb(218, 210, 210);
+    margin: 4px;
+    border-radius: 10px;
+    align-items: center;
+
+}
+
+.d-invisible {
+    visibility: hidden;
+}
